@@ -214,7 +214,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/wine-glass_1203-3448.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/wine-glass_1203-3448.jpg?_wi=1",
           imageAlt: "luxury hotel suite panoramic ocean view",
         },
       ]}
@@ -234,7 +234,7 @@ export default function LandingPage() {
           id: "1",
           name: "Al Muntaha",
           price: "Fine Dining",
-          imageSrc: "http://img.b2bpic.net/free-photo/wine-glass_1203-3448.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/wine-glass_1203-3448.jpg?_wi=2",
         },
         {
           id: "2",
