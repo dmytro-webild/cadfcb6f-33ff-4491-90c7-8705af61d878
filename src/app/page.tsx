@@ -46,7 +46,7 @@ export default function LandingPage() {
         <div id="hero" data-section="hero">
           <HeroCentered
             background={{ variant: "sparkles-gradient" }}
-            title="The World's Most Iconic Hotel"
+            title="The World's Most Iconic 7-Star Destination"
             description="Experience the pinnacle of luxury, service, and architectural brilliance at Jumeirah Burj Al Arab."
             avatars={[
               { src: "http://img.b2bpic.net/free-photo/smiling-business-man-texting-smartphone-cafe_1262-3308.jpg", alt: "happy guest hotel portrait luxury" },
